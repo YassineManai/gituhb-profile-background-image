@@ -1,7 +1,7 @@
 
 
 # 📷 Github Banner
-<img align="center" width="100%" alt="about" src="[https://github.com/user-attachments/assets/db39be31-64d1-49a1-bdbf-80ea2ed80314]"/>
+<img align="center" width="100%" alt="about" src="https://github.com/user-attachments/assets/db39be31-64d1-49a1-bdbf-80ea2ed80314"/>
 
 > Access the project online **[HERE](https://github.com/YassineManai/gituhb-profile-background-image/)**
 
